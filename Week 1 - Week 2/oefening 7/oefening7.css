@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+
+    color: yellow;
+}
+section {
+    border-style: solid;
+    border-color: yellow;
+    border-width: thin;
+    border-radius: 2px;
+    margin-left: 32%;
+    margin-right: 32%;
+}

@@ -1,0 +1,23 @@
+body {
+    font-family: roboto, serif;
+    background-color: #c7ced8;
+}
+table tr:first-child {
+    text-align: center;
+}
+table {
+    color: white;
+    border-spacing: 0px;
+}
+thead {
+    background-color: #27426d;
+}
+tfoot {
+    background-color: #27426d;
+}
+tbody tr:nth-child(even) {
+    background-color: #6facff;
+}
+tbody tr:nth-child(odd) {
+    background-color: #4f8cef;
+}

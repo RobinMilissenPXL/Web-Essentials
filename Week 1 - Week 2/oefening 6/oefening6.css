@@ -1,0 +1,94 @@
+body {
+    font-family: roboto, serif;
+    color: white;
+    background-color: #3e404c;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1 {
+    color: #c98565;
+}
+
+ol {
+    color: white;
+    margin-left: 60px;
+}
+
+ul {
+    color: white;
+}
+
+.favovideo {
+    border: 3px;
+    border-style: solid;
+    border-color: gray;
+}
+
+a {
+    color: white;
+}
+
+.nav_bar a {
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 18px;
+    text-decoration: underline;
+    color: #c98565;
+}
+
+.nav_bar {
+    display: flex;
+    transform: translate(-50px, -15px);
+}
+
+.nav_bar li {
+    list-style: none;
+    padding: 5px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    margin: 15px;
+    margin-bottom: 0px;
+
+}
+
+section {
+    margin-left: 20px;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 2px;
+    border-color: sandybrown;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.Pukkelpop {
+    background-color: cornflowerblue;
+}
+
+.Rock_Werchter {
+    background-color: sandybrown;
+}
+
+.Tommorrowland {
+    background-color: plum;
+}
+
+.Graspop {
+    background-color: lightgreen;
+}
+
+.Dour {
+    background-color: navajowhite;
+}
+
+.boxed {
+    color: black;
+}
+
+.boxed a {
+    color: black;
+}

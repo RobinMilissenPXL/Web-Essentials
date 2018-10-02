@@ -1,0 +1,29 @@
+body {
+    background-color: #d9ddd7;
+}
+body {
+    font-family: Verdana;
+}
+#title {
+    color: #036411;
+}
+p {
+    color: white;
+    background-color: #6a7689;
+    padding: 20px
+}
+.inspringing {
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    color: #f7ff00;
+    border: 3px;
+    border-style: solid;
+    border-color: #f7ff00;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: #0bff00;
+}
