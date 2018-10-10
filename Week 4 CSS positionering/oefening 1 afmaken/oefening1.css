@@ -14,6 +14,17 @@ section {
     border-color: yellow;
     border-width: thin;
     border-radius: 2px;
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 10%;
+    margin-right: 10%;
+    min-width: 200px;
+}
+
+nav {
+    display: flex;
+}
+section .box1 {
+    float: left;
+}
+section .box2 {
+    float: left;
 }
